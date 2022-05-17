@@ -204,7 +204,7 @@ let incremento = numero;
 let contador = 1;
 do {
   incremento = incremento + 5;
-  contador = contador + 1;
+  contador++;
   
 }
 while (contador <= 8)
